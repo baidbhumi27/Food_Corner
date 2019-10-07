@@ -1,7 +1,7 @@
 # FoodCorner
-Online Food Website(Similar to Zomato, Swiggy)
+Online Food Delivery Website(Similar to Zomato, Swiggy)
 
-This is a Online Food Ordering Website which include following features:
+This is an Online Food Delivery Website which includes the following features:
 
 1.There are two types of users
 
